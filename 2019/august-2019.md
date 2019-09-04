@@ -7,7 +7,7 @@ description: Developments and innovations to Goobi workflow in August 2019
 ### ActiveMQ queues are now displayed
 
 Already [some time ago](https://docs.intranda.com/goobi-workflow-digests-en/2019/04) we added a new queue to Goobi. There hasn't been much of this queue so far, it did its work quietly in the background.  
-This has now been changed. There is a new page where Admins can view the queues and also cancel jobs.
+This has now been changed. There is a new page where administrators can view the queues and also cancel jobs.
 
 [https://github.com/intranda/goobi/commit/38a43c078f403b24cc1fb2910e619ad189e3c4a2](https://github.com/intranda/goobi/commit/38a43c078f403b24cc1fb2910e619ad189e3c4a2) [https://github.com/intranda/goobi/commit/e3331d76932a20f1aa750f4be227264c123e7a10](https://github.com/intranda/goobi/commit/e3331d76932a20f1aa750f4be227264c123e7a10) [https://github.com/intranda/goobi/commit/e3331d76932a20f1aa750f4be227264c123e7a10](https://github.com/intranda/goobi/commit/e3331d76932a20f1aa750f4be227264c123e7a10)
 
