@@ -4,6 +4,7 @@
 
 ## 2019
 
+* [December 2019](2019/12.md)
 * [November 2019](2019/11.md)
 * [October 2019](2019/10.md)
 * [September 2019](2019/09.md)
