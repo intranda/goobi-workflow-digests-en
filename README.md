@@ -4,6 +4,8 @@ At this point we provide a detailed insight into our current developments. We tr
 
 In the table of contents on the left you will find a list of the respective months for which such a compilation already exists. And here you find a direct link to the latest 5 digests:
 
+{% page-ref page="2020/05.md" %}
+
 {% page-ref page="2020/04.md" %}
 
 {% page-ref page="2020/03.md" %}
@@ -11,6 +13,3 @@ In the table of contents on the left you will find a list of the respective mont
 {% page-ref page="2020/02.md" %}
 
 {% page-ref page="2020/01.md" %}
-
-{% page-ref page="2019/12.md" %}
-
