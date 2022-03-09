@@ -4,6 +4,7 @@
 
 ## 2021
 
+* [November 2021](2021/11.md)
 * [October 2021](2021/10.md)
 * [September 2021](2021/09.md)
 * [August 2021](2021/08.md)
