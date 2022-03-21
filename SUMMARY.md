@@ -2,6 +2,10 @@
 
 * [Goobi workflow Digests](README.md)
 
+## 2022
+
+* [January 2022](2022/01.md)
+
 ## 2021
 
 * [December 2021](2021/12.md)
