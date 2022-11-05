@@ -4,6 +4,8 @@ At this point we provide a detailed insight into our current developments. We tr
 
 In the table of contents on the left you will find a list of the respective months for which such a compilation already exists. And here you find a direct link to the latest digests:
 
+{% page-ref page="2022/10.md" %}
+
 {% page-ref page="2022/09.md" %}
 
 {% page-ref page="2022/08.md" %}
