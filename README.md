@@ -4,6 +4,10 @@ At this point we provide a detailed insight into our current developments. We tr
 
 In the table of contents on the left you will find a list of the respective months for which such a compilation already exists. And here you find a direct link to the latest digests:
 
+{% content-ref url="2023/3.md" %}
+[3.md](2023/3.md)
+{% endcontent-ref %}
+
 {% content-ref url="2023/2.md" %}
 [2.md](2023/2.md)
 {% endcontent-ref %}
@@ -22,8 +26,4 @@ In the table of contents on the left you will find a list of the respective mont
 
 {% content-ref url="2022/10.md" %}
 [10.md](2022/10.md)
-{% endcontent-ref %}
-
-{% content-ref url="2022/09.md" %}
-[09.md](2022/09.md)
 {% endcontent-ref %}
